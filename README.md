@@ -1,2 +1,5 @@
-# 2019-08-06_pm-review
-Created with CodeSandbox
+## discuss: let, const, var, scope
+
+## discuss: comparison operators (equality, relational)
+
+## example functions
